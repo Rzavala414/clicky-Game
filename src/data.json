@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "image": "/img/",
+    "image": "/img/beerus.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/img/",
+    "image": "/img/buu.png",
     "clicked": false
   },{
     "id": 3,
-    "image":"/img/",
+    "image":"/img/cell.png",
     "clicked":false
   },{
     "id": 4,
-    "image":"/img/",
+    "image":"/img/frieza.png",
     "clicked":false
   },{
     "id": 5,
-    "image":"/img/",
+    "image":"/img/kingKai.png",
     "clicked":false
   },{
     "id": 6,
-    "image":"/img/",
+    "image":"/img/piccolo.png",
     "clicked":false
   },{
     "id": 7,
-    "image":"/img/",
+    "image":"/img/sayianMan.png",
     "clicked":false
   },{
     "id": 8,
-    "image":"/img/",
+    "image":"/img/vegeta.png",
     "clicked":false
   },{
     "id": 9,
-    "image":"/img/",
+    "image":"/img/vegito.png",
     "clicked":false
   },{
     "id": 10,
-    "image":"/img/",
+    "image":"/img/Whis.png",
     "clicked":false
   },{
     "id": 11,
-    "image":"/img/",
+    "image":"/img/zamasu.png",
     "clicked":false
   },{
     "id": 12,
-    "image":"/img/",
+    "image":"/img/goku.png",
     "clicked":false
   }
 ]
