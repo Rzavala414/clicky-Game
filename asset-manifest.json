@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/clicky-Game/static/css/main.a2652599.chunk.css",
-    "main.js": "/clicky-Game/static/js/main.ac80ee79.chunk.js",
-    "main.js.map": "/clicky-Game/static/js/main.ac80ee79.chunk.js.map",
+    "main.css": "/clicky-Game/static/css/main.64502ff3.chunk.css",
+    "main.js": "/clicky-Game/static/js/main.00b9ce92.chunk.js",
+    "main.js.map": "/clicky-Game/static/js/main.00b9ce92.chunk.js.map",
     "runtime-main.js": "/clicky-Game/static/js/runtime-main.67c54349.js",
     "runtime-main.js.map": "/clicky-Game/static/js/runtime-main.67c54349.js.map",
-    "static/css/2.0624914a.chunk.css": "/clicky-Game/static/css/2.0624914a.chunk.css",
+    "static/css/2.b0bb7f2c.chunk.css": "/clicky-Game/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.57bff80a.chunk.js": "/clicky-Game/static/js/2.57bff80a.chunk.js",
     "static/js/2.57bff80a.chunk.js.map": "/clicky-Game/static/js/2.57bff80a.chunk.js.map",
     "index.html": "/clicky-Game/index.html",
-    "precache-manifest.49a43e2c77eca4f71ebda0f59e7e3262.js": "/clicky-Game/precache-manifest.49a43e2c77eca4f71ebda0f59e7e3262.js",
+    "precache-manifest.14fb9c99cce856760f849227faa88969.js": "/clicky-Game/precache-manifest.14fb9c99cce856760f849227faa88969.js",
     "service-worker.js": "/clicky-Game/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/clicky-Game/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.a2652599.chunk.css.map": "/clicky-Game/static/css/main.a2652599.chunk.css.map"
+    "static/css/2.b0bb7f2c.chunk.css.map": "/clicky-Game/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.64502ff3.chunk.css.map": "/clicky-Game/static/css/main.64502ff3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.67c54349.js",
-    "static/css/2.0624914a.chunk.css",
+    "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.57bff80a.chunk.js",
-    "static/css/main.a2652599.chunk.css",
-    "static/js/main.ac80ee79.chunk.js"
+    "static/css/main.64502ff3.chunk.css",
+    "static/js/main.00b9ce92.chunk.js"
   ]
 }
