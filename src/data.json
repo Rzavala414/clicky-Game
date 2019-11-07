@@ -1,16 +1,52 @@
 [
   {
     "id": 1,
-    "image": "/img/dog1.jpg",
+    "image": "/img/",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/img/dog2.jpg",
+    "image": "/img/",
     "clicked": false
   },{
     "id": 3,
-    "image":"/img/Stonehenge.jpg",
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 4,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 5,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 6,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 7,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 8,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 9,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 10,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 11,
+    "image":"/img/",
+    "clicked":false
+  },{
+    "id": 12,
+    "image":"/img/",
     "clicked":false
   }
 ]
