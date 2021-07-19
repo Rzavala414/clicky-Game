@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import ClickItem from '../ClickItem';
 import Container from "../Container";
 import data from "../../data.json";
-
+console.log(data)
 
 class NewGame extends Component {
     state = {

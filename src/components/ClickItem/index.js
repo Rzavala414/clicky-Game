@@ -1,14 +1,15 @@
 import React from 'react';
-import './style.css'
-function ClickItem(props) {
-    return (
-        <img src={props.image}
+import './style.css';
+
+export default class ClickItem extends React.Component {
+   
+
+    render() {
+        return( 
+            <img src={this.props.image}
             role="img"
-            onClick={() => props.handleClick(props.id)}
-            className="allImg"
-        />
-
-    )
+            onClick={() => this.props.handleClick(this.props.id)}
+            className="allImg"/>
+            )
+    }
 }
-
-export default ClickItem;

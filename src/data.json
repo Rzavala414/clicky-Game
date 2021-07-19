@@ -6,45 +6,54 @@
   },
   {
     "id": 2,
-    "image": "/img/buu.png",
+    "image": "./img/buu.png",
     "clicked": false
-  },{
+  },
+  {
     "id": 3,
-    "image":"/img/cell.png",
+    "image":"./img/cell.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 4,
-    "image":"/img/frieza.png",
+    "image":"./img/frieza.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 5,
-    "image":"/img/kingKai.png",
+    "image":"./img/kingKai.png",
     "clicked":false
   },{
     "id": 6,
-    "image":"/img/piccolo.png",
+    "image":"./img/piccolo.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 7,
-    "image":"/img/sayianMan.png",
+    "image":"./img/sayianMan.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 8,
     "image":"/img/vegeta.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 9,
     "image":"/img/vegito.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 10,
     "image":"/img/Whis.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 11,
     "image":"/img/zamasu.png",
     "clicked":false
-  },{
+  },
+  {
     "id": 12,
     "image":"/img/goku.png",
     "clicked":false
